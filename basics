@@ -1,0 +1,7 @@
+const student={
+    name:"harishta",
+    marks:100,
+};
+student.marks=200;
+console.log(student.marks);
+console.log(object.entries(student));
